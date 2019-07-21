@@ -33,7 +33,7 @@
     <integer name="doze_pulse_delay_in_intent">0</integer>
 
     <!-- Max visible notification icons -->
-    <integer name="config_maxVisibleNotificationIcons">5</integer>
+    <integer name="config_maxVisibleNotificationIcons">4</integer>
 
     <!-- Show battery icon in the QS Panel instead of in the header -->
     <bool name="config_batteryInQSPanel">false</bool>
