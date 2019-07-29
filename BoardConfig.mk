@@ -230,6 +230,9 @@ TARGET_USES_INTERACTION_BOOST := true
 # Peripheral manager
 TARGET_PER_MGR_ENABLED := true
 
+# Properties
+TARGET_SYSTEM_PROP := device/asus/X01BD/system.prop
+
 # QCOM hardware
 BOARD_USES_QCOM_HARDWARE := true
 
